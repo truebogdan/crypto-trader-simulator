@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bcecc29-6362-4871-a0de-e44cddadd06a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CryptoTraderSimulator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CryptoTraderSimulator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CryptoTraderSimulator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\nutic\keystore.jks" />
+    <option name="KEY_ALIAS" value="CryptoTraderSimulator" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ozRyygGMUZDMKDEiW4Usmalkck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="CryptoTraderSimulator.app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_a105fn-RF8M521W2FL" />
+    <property name="DEBUGGABLE_PROCESS" value="com.ntzk.cryptotradersimulator" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="ExportApk.ApkPath" value="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-viewC:/Users/nutic/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+    <property name="multi-representation-previewC:/Users/nutic/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-721322042">
+      <recent name="com.ntzk.cryptotradersimulator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app\src\main\res\mipmap-anydpi-v26" />
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app\src\main\java\com\ntzk\cryptotradersimulator" />
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app\src\main\res\mipmap-mdpi" />
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app" />
+      <recent name="C:\Users\nutic\AndroidStudioProjects\CryptoTraderSimulator\app\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CryptoTraderSimulator.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptoTraderSimulator [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CryptoTraderSimulator [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bcecc29-6362-4871-a0de-e44cddadd06a" name="Default Changelist" comment="" />
+      <created>1614287690409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614287690409</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1617036896890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617036896890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1617037756935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617037756935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1617037977777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617037977777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1617038311584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617038311584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1617039738075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617039738075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1617040293264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617040293264</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1617040799693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617040799693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="295" key="#Notifications" timestamp="1617040908314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="654" y="295" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1617040908314" />
+    <state x="496" y="38" key="#app" timestamp="1616533103202">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="38" key="#app/0.0.1536.864@0.0.1536.864" timestamp="1616533103202" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1616929818895">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1616929818895" />
+    <state x="73" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1615905852438">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="73" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1615905852438" />
+    <state x="100" y="100" width="1155" height="664" key="AVDManager" timestamp="1616017221648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="100" y="100" width="1155" height="664" key="AVDManager/0.0.1536.864@0.0.1536.864" timestamp="1616017221648" />
+    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog" timestamp="1616914852632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1616914852632" />
+    <state x="698" y="187" key="AndroidCreateResourceFileDialog" timestamp="1616923716277">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="698" y="187" key="AndroidCreateResourceFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1616923716277" />
+    <state x="624" y="198" key="AndroidProcessChooserDialog" timestamp="1616921857670">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="624" y="198" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1616921857670" />
+    <state x="320" y="1" key="CommitChangelistDialog2" timestamp="1617040798473">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="320" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1617040798473" />
+    <state x="549" y="243" width="438" height="434" key="FileChooserDialogImpl" timestamp="1617035852367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="243" width="438" height="434" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1617035852367" />
+    <state width="1491" height="349" key="GridCell.Tab.0.bottom" timestamp="1617041020488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="349" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1617041020488" />
+    <state width="1491" height="349" key="GridCell.Tab.0.center" timestamp="1617041020488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="349" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1617041020488" />
+    <state width="1491" height="349" key="GridCell.Tab.0.left" timestamp="1617041020488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="349" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1617041020488" />
+    <state width="1491" height="349" key="GridCell.Tab.0.right" timestamp="1617041020488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="349" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1617041020488" />
+    <state width="1491" height="402" key="GridCell.Tab.1.bottom" timestamp="1616539534953">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="402" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616539534953" />
+    <state width="1491" height="402" key="GridCell.Tab.1.center" timestamp="1616539534953">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="402" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1616539534953" />
+    <state width="1491" height="402" key="GridCell.Tab.1.left" timestamp="1616539534952">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="402" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1616539534952" />
+    <state width="1491" height="402" key="GridCell.Tab.1.right" timestamp="1616539534953">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="402" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1616539534953" />
+    <state x="349" y="175" key="IDE.errors.dialog" timestamp="1615906988861">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="175" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1615906988861" />
+    <state x="187" y="77" key="SettingsEditor" timestamp="1617041052191">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="187" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1617041052191" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1617040844703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1617040844703" />
+    <state x="968" y="210" key="chooseDestDirectoryDialog" timestamp="1616914882806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="968" y="210" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1616914882806" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1615905847213">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1615905847213" />
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup" timestamp="1616018559581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1616018559581" />
+    <state x="342" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1616017080827">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="342" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1616017080827" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ntzk/cryptotradersimulator/template/CoinAdapter.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

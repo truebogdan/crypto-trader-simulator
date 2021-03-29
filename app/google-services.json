@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665864788220",
+    "project_id": "cryptotradersimulator-3713a",
+    "storage_bucket": "cryptotradersimulator-3713a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665864788220:android:87f47334c6ad6d8fdf1f79",
+        "android_client_info": {
+          "package_name": "com.ntzk.cryptotradersimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665864788220-d70lqqkln5ojpdr82ug3gn95gtggpds6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntzk.cryptotradersimulator",
+            "certificate_hash": "a3009aaf62bec892272f6ed92af52eb687ea4b26"
+          }
+        },
+        {
+          "client_id": "665864788220-8ug8f0ai8c2fdv1pb5cqtqeoh0bf48au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzm9c-XBpnsIeUYKgQkJ5GJWDqO3cukrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665864788220-8ug8f0ai8c2fdv1pb5cqtqeoh0bf48au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

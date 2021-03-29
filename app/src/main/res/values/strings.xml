@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">CryptoTrader Simulator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="coinsId">
+        <item>bitcoin</item>
+        <item>ethereum</item>
+        <item>cardano</item>
+        <item>binancecoin</item>
+        <item>polkadot</item>
+        <item>ripple</item>
+        <item>uniswap</item>
+        <item>theta-token</item>
+        <item>litecoin</item>
+        <item>chainlink</item>
+        <item>dogecoin</item>
+        <item>elrond-erd-2</item>
+    </string-array>
+    <string-array name="coinsImage">
+
+        <item>https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579</item>
+        <item>https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880</item>
+        <item>https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860</item>
+        <item>https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615</item>
+        <item>https://assets.coingecko.com/coins/images/12171/small/aJGBjJFU_400x400.jpg?1597804776</item>
+        <item>https://assets.coingecko.com/coins/images/44/small/xrp-symbol-white-128.png?1605778731</item>
+        <item>https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604</item>
+        <item>https://assets.coingecko.com/coins/images/2538/small/theta-token-logo.png?1548387191</item>
+        <item>https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580</item>
+        <item>https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700</item>
+        <item>https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256</item>
+        <item>https://assets.coingecko.com/coins/images/12335/small/Elrond.png?1599132180</item>
+    </string-array>
+    <string-array name="coinsTicker">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>ADA</item>
+        <item>BNB</item>
+        <item>DOT</item>
+        <item>XRP</item>
+        <item>UNI</item>
+        <item>THETA</item>
+        <item>LTC</item>
+        <item>LINK</item>
+        <item>DOGE</item>
+        <item>EGLD</item>
+    </string-array>
+    <string-array name="coinsName">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Cardano</item>
+        <item>Binance Coin</item>
+        <item>Polkadot</item>
+        <item>Ripple</item>
+        <item>Uniswap</item>
+        <item>Theta Network</item>
+        <item>Litecoin</item>
+        <item>Chainlink</item>
+        <item>Dogecoin</item>
+        <item>eGold</item>
+    </string-array>
+</resources>
